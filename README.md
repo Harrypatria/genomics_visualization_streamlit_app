@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you use this tool in your research, please cite:
 
 ```
-Author, A. (2025). Genomic Visualization Hub: An interactive application for genomic data visualization.
+Patria, H. (2025). Genomic Visualization Hub: An interactive application for genomic data visualization.
 GitHub repository: https://github.com/Harrypatria/genomics_visualization_streamlit_app
 ```
 
