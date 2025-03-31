@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  genomics-viz-app:
+    build: .
+    container_name: genomics-viz-app
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./examples:/app/examples
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501"]
+      interval: 1m
+      timeout: 10s
+      retries: 3
