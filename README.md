@@ -119,3 +119,16 @@ GitHub repository: https://github.com/Harrypatria/genomics_visualization_streaml
 - Uses [DNA Features Viewer](https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer) for linear genome visualization
 - Uses [Plotly](https://plotly.com/) for interactive visualizations
 - Uses [NetworkX](https://networkx.org/) for network analysis
+
+
+<div align="center">
+
+
+## 🌟 Support This Project
+**Follow me on GitHub**: [![GitHub Follow](https://img.shields.io/github/followers/Harrypatria?style=social)](https://github.com/Harrypatria?tab=followers)
+**Star this repository**: [![GitHub Star](https://img.shields.io/github/stars/Harrypatria/SQLite_Advanced_Tutorial_Google_Colab?style=social)](https://github.com/Harrypatria/SQLite_Advanced_Tutorial_Google_Colab/stargazers)
+**Connect on LinkedIn**: [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-patria/)
+
+Click the buttons above to show your support!
+
+</div>
